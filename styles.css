@@ -14,7 +14,6 @@ body{
 .title{
 
 font-size: 180%;
-text-shadow: 10px 10px #060505;
 width: 45%;
 margin-top:20%;
 
@@ -23,7 +22,6 @@ margin-top:20%;
 .paragraph{
 
     font-size: 140%;
-    text-shadow: 5px 5px #060505;
     width: 45%;
     height: 50%;
     margin-top: -40px;
