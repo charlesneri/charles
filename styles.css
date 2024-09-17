@@ -16,6 +16,7 @@ body{
 font-size: 180%;
 width: 45%;
 margin-top:20%;
+color:rgb(14, 12, 12)
 
 }
 
@@ -25,6 +26,7 @@ margin-top:20%;
     width: 45%;
     height: 50%;
     margin-top: -40px;
+    color:rgb(10, 10, 10)
     
 }
 
@@ -49,6 +51,7 @@ margin-top:20%;
     padding-left: 1px;
     text-align: center;
     margin-left: 1px;
+    color:rgb(12, 16, 16)
 
 }
 
@@ -117,4 +120,3 @@ a:hover{
 a:active{
 
     color:rgb(23, 152, 152)
-}
